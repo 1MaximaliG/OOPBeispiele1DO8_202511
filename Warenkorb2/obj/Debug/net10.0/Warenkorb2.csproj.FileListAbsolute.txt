@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\bin\Debug\net10.0\Warenkorb2.exe
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\bin\Debug\net10.0\Warenkorb2.deps.json
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\bin\Debug\net10.0\Warenkorb2.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\bin\Debug\net10.0\Warenkorb2.dll
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\bin\Debug\net10.0\Warenkorb2.pdb
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.dll
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\refint\Warenkorb2.dll
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.pdb
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\Warenkorb2.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Warenkorb2\obj\Debug\net10.0\ref\Warenkorb2.dll

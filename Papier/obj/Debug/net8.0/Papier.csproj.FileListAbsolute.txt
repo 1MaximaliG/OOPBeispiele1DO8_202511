@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Papier\bin\Debug\net8.0\Papier.exe
+C:\Users\Max.Gronemann\source\repos\Papier\bin\Debug\net8.0\Papier.deps.json
+C:\Users\Max.Gronemann\source\repos\Papier\bin\Debug\net8.0\Papier.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Papier\bin\Debug\net8.0\Papier.dll
+C:\Users\Max.Gronemann\source\repos\Papier\bin\Debug\net8.0\Papier.pdb
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.dll
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\refint\Papier.dll
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.pdb
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\Papier.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Papier\obj\Debug\net8.0\ref\Papier.dll

@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\bin\Debug\net10.0\MusikInstrumente.exe
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\bin\Debug\net10.0\MusikInstrumente.deps.json
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\bin\Debug\net10.0\MusikInstrumente.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\bin\Debug\net10.0\MusikInstrumente.dll
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\bin\Debug\net10.0\MusikInstrumente.pdb
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.dll
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\refint\MusikInstrumente.dll
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.pdb
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\MusikInstrumente.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\MusikInstrumente\obj\Debug\net10.0\ref\MusikInstrumente.dll

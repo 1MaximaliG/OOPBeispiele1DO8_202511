@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\bin\Debug\net8.0\Verkehrssünderkartei.exe
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\bin\Debug\net8.0\Verkehrssünderkartei.deps.json
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\bin\Debug\net8.0\Verkehrssünderkartei.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\bin\Debug\net8.0\Verkehrssünderkartei.dll
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\bin\Debug\net8.0\Verkehrssünderkartei.pdb
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.dll
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\refint\Verkehrssünderkartei.dll
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.pdb
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\Verkehrssünderkartei.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Verkehrssünderkartei\obj\Debug\net8.0\ref\Verkehrssünderkartei.dll

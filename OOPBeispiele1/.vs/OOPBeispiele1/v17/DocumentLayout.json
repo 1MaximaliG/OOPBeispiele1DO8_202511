@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BA85F-9ABF-4444-B2DC-54E52D4B0312}|..\\E_Book\\E_Book.csproj|c:\\users\\max.gronemann\\source\\repos\\e_book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD568111-1DEA-47BF-BA84-20458B48707F}|..\\Schneggenrennen\\Schneggenrennen.csproj|c:\\users\\max.gronemann\\source\\repos\\schneggenrennen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F38AF8B-465E-4504-94BF-274616E28C2E}|..\\Steintal\\Steintal.csproj|c:\\users\\max.gronemann\\source\\repos\\steintal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E6F35BC-D81F-460E-B69C-9520A0DB4DFB}|..\\Zoo2\\Zoo2.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\entrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C617495-E8AB-4D8A-A3AA-C50305ED3846}|..\\AutoMechaniker\\AutoMechaniker.csproj|c:\\users\\max.gronemann\\source\\repos\\automechaniker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C617495-E8AB-4D8A-A3AA-C50305ED3846}|..\\AutoMechaniker\\AutoMechaniker.csproj|c:\\users\\max.gronemann\\source\\repos\\automechaniker\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D56B36E-E413-4F0D-89B0-C2F05CE8E3E3}|..\\Automobil\\Automobil.csproj|c:\\users\\max.gronemann\\source\\repos\\automobil\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D56B36E-E413-4F0D-89B0-C2F05CE8E3E3}|..\\Automobil\\Automobil.csproj|c:\\users\\max.gronemann\\source\\repos\\automobil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0B9008-AFDC-4B3A-AFC9-6A88E9AF8093}|..\\Properties\\Properties.csproj|c:\\users\\max.gronemann\\source\\repos\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27440F5B-E4A7-45CA-AB3D-2C5EC38FFA44}|..\\assoziationen\\assoziationen.csproj|c:\\users\\max.gronemann\\source\\repos\\assoziationen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F4B2A2-2298-49E7-AAFF-538FBEAFD86C}|OOPBeispiele1.csproj|c:\\users\\max.gronemann\\source\\repos\\oopbeispiele1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F4B2A2-2298-49E7-AAFF-538FBEAFD86C}|OOPBeispiele1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Schneggenrennen\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Schneggenrennen\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Schneggenrennen\\Program.cs",
+              "RelativeToolTip": "..\\Schneggenrennen\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwKsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T13:36:48.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\E_Book\\Program.cs",
+              "RelativeDocumentMoniker": "..\\E_Book\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\E_Book\\Program.cs",
+              "RelativeToolTip": "..\\E_Book\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T13:37:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Steintal\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Steintal\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Steintal\\Program.cs",
+              "RelativeToolTip": "..\\Steintal\\Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAIwKsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:43:01.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Zoo2\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo2\\Program.cs",
+              "RelativeToolTip": "..\\Zoo2\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAMwFIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T12:35:53.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adult.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Adult.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Adult.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Adult.cs",
+              "RelativeToolTip": "..\\Zoo\\Adult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:27:50.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Group.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Group.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Group.cs",
+              "RelativeToolTip": "..\\Zoo\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:19:17.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Child.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Child.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Child.cs",
+              "RelativeToolTip": "..\\Zoo\\Child.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:19:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Visitor.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Visitor.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Visitor.cs",
+              "RelativeToolTip": "..\\Zoo\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:18:02.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entrance.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Entrance.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Entrance.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Entrance.cs",
+              "RelativeToolTip": "..\\Zoo\\Entrance.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:17:20.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Program.cs",
+              "RelativeToolTip": "..\\Zoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:49:04.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\AutoMechaniker\\Auto.cs",
+              "RelativeDocumentMoniker": "..\\AutoMechaniker\\Auto.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\AutoMechaniker\\Auto.cs",
+              "RelativeToolTip": "..\\AutoMechaniker\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:15:00.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Automobil\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Automobil\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Automobil\\Program.cs",
+              "RelativeToolTip": "..\\Automobil\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:14:30.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Automobil\\Auto.cs",
+              "RelativeDocumentMoniker": "..\\Automobil\\Auto.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Automobil\\Auto.cs",
+              "RelativeToolTip": "..\\Automobil\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:14:10.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Properties\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Properties\\Program.cs",
+              "RelativeToolTip": "..\\Properties\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:27:24.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\AutoMechaniker\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AutoMechaniker\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\AutoMechaniker\\Program.cs",
+              "RelativeToolTip": "..\\AutoMechaniker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:25:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\assoziationen\\Program.cs",
+              "RelativeDocumentMoniker": "..\\assoziationen\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\assoziationen\\Program.cs",
+              "RelativeToolTip": "..\\assoziationen\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:17:51.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:17:33.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

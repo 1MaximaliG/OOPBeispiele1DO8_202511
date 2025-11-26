@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Warenhaus\bin\Debug\net8.0\Warenhaus.exe
+C:\Users\Max.Gronemann\source\repos\Warenhaus\bin\Debug\net8.0\Warenhaus.deps.json
+C:\Users\Max.Gronemann\source\repos\Warenhaus\bin\Debug\net8.0\Warenhaus.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Warenhaus\bin\Debug\net8.0\Warenhaus.dll
+C:\Users\Max.Gronemann\source\repos\Warenhaus\bin\Debug\net8.0\Warenhaus.pdb
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.dll
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\refint\Warenhaus.dll
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.pdb
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\Warenhaus.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Warenhaus\obj\Debug\net8.0\ref\Warenhaus.dll

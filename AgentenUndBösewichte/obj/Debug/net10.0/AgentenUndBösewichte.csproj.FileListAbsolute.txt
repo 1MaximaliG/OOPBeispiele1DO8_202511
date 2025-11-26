@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\bin\Debug\net10.0\AgentenUndBösewichte.exe
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\bin\Debug\net10.0\AgentenUndBösewichte.deps.json
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\bin\Debug\net10.0\AgentenUndBösewichte.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\bin\Debug\net10.0\AgentenUndBösewichte.dll
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\bin\Debug\net10.0\AgentenUndBösewichte.pdb
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.dll
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\refint\AgentenUndBösewichte.dll
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.pdb
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\AgentenUndBösewichte.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\AgentenUndBösewichte\obj\Debug\net10.0\ref\AgentenUndBösewichte.dll

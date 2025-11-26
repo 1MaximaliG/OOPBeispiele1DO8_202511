@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\bin\Debug\net10.0\FarbenConsole.exe
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\bin\Debug\net10.0\FarbenConsole.deps.json
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\bin\Debug\net10.0\FarbenConsole.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\bin\Debug\net10.0\FarbenConsole.dll
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\bin\Debug\net10.0\FarbenConsole.pdb
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.dll
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\refint\FarbenConsole.dll
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.pdb
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\FarbenConsole.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\FarbenConsole\obj\Debug\net10.0\ref\FarbenConsole.dll

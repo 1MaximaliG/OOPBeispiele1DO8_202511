@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\bin\Debug\net8.0\OOPBeispiele1.exe
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\bin\Debug\net8.0\OOPBeispiele1.deps.json
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\bin\Debug\net8.0\OOPBeispiele1.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\bin\Debug\net8.0\OOPBeispiele1.dll
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\bin\Debug\net8.0\OOPBeispiele1.pdb
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.dll
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\refint\OOPBeispiele1.dll
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.pdb
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\OOPBeispiele1.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\OOPBeispiele1\obj\Debug\net8.0\ref\OOPBeispiele1.dll

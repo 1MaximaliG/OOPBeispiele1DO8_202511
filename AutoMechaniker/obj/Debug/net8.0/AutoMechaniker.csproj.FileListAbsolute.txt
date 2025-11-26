@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\bin\Debug\net8.0\AutoMechaniker.exe
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\bin\Debug\net8.0\AutoMechaniker.deps.json
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\bin\Debug\net8.0\AutoMechaniker.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\bin\Debug\net8.0\AutoMechaniker.dll
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\bin\Debug\net8.0\AutoMechaniker.pdb
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.dll
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\refint\AutoMechaniker.dll
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.pdb
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\AutoMechaniker.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\AutoMechaniker\obj\Debug\net8.0\ref\AutoMechaniker.dll

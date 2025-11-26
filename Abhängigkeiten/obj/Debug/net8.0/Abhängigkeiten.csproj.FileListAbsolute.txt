@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\bin\Debug\net8.0\Abhängigkeiten.exe
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\bin\Debug\net8.0\Abhängigkeiten.deps.json
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\bin\Debug\net8.0\Abhängigkeiten.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\bin\Debug\net8.0\Abhängigkeiten.dll
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\bin\Debug\net8.0\Abhängigkeiten.pdb
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.dll
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\refint\Abhängigkeiten.dll
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.pdb
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\Abhängigkeiten.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Abhängigkeiten\obj\Debug\net8.0\ref\Abhängigkeiten.dll

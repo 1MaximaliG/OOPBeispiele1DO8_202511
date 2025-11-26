@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47F4B2A2-2298-49E7-AAFF-538FBEAFD86C}|OOPBeispiele1.csproj|c:\\users\\max.gronemann\\source\\repos\\oopbeispiele1\\oopbeispiele1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{47F4B2A2-2298-49E7-AAFF-538FBEAFD86C}|OOPBeispiele1.csproj|solutionrelative:oopbeispiele1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058409C8-EFDC-4D9A-B5CE-B072275C2A57}|..\\BusSystem\\BusSystem.csproj|c:\\users\\max.gronemann\\source\\repos\\bussystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\entrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\visitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C26B0AA-531E-4A56-B4C9-DB53D34889D7}|..\\Zoo\\Zoo.csproj|c:\\users\\max.gronemann\\source\\repos\\zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8DCE55-8C52-41E1-9EDE-E42235120AA9}|..\\Warenkorb2\\Warenkorb2.csproj|c:\\users\\max.gronemann\\source\\repos\\warenkorb2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE7A472-27FF-4681-A6E7-2CAEEC57A413}|..\\Warenhaus\\Warenhaus.csproj|c:\\users\\max.gronemann\\source\\repos\\warenhaus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3967F980-BADD-4722-90C9-CEBD94195E73}|..\\VierGewinnt\\VierGewinnt.csproj|c:\\users\\max.gronemann\\source\\repos\\viergewinnt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD568111-1DEA-47BF-BA84-20458B48707F}|..\\Schneggenrennen\\Schneggenrennen.csproj|c:\\users\\max.gronemann\\source\\repos\\schneggenrennen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511CCF78-6D13-4614-8DD7-AB18FD1EFEAD}|..\\MusikInstrumente\\MusikInstrumente.csproj|c:\\users\\max.gronemann\\source\\repos\\musikinstrumente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F77214-F658-4F9D-8444-37728CE7C90A}|..\\InterfaceBeispiele\\InterfaceBeispiele.csproj|c:\\users\\max.gronemann\\source\\repos\\interfacebeispiele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E8C25F-F4C9-4BCD-AE01-CE8D4CB6680E}|..\\Fernseher\\Fernseher.csproj|c:\\users\\max.gronemann\\source\\repos\\fernseher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245AD52A-933B-4E3C-AD81-EF56178B8F65}|..\\FarbenConsole\\FarbenConsole.csproj|c:\\users\\max.gronemann\\source\\repos\\farbenconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46BA85F-9ABF-4444-B2DC-54E52D4B0312}|..\\E_Book\\E_Book.csproj|c:\\users\\max.gronemann\\source\\repos\\e_book\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07090190-0B3F-4705-9EE6-447117E8C822}|..\\AgentenUndB\u00F6sewichte\\AgentenUndB\u00F6sewichte.csproj|c:\\users\\max.gronemann\\source\\repos\\agentenundb\u00F6sewichte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47F4B2A2-2298-49E7-AAFF-538FBEAFD86C}|OOPBeispiele1.csproj|c:\\users\\max.gronemann\\source\\repos\\oopbeispiele1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47F4B2A2-2298-49E7-AAFF-538FBEAFD86C}|OOPBeispiele1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOPBeispiele1.csproj",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\OOPBeispiele1.csproj",
+              "RelativeDocumentMoniker": "OOPBeispiele1.csproj",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\OOPBeispiele1.csproj",
+              "RelativeToolTip": "OOPBeispiele1.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T13:02:49.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entrance.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Entrance.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Entrance.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Entrance.cs",
+              "RelativeToolTip": "..\\Zoo\\Entrance.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:37:41.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Visitor.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Visitor.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Visitor.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Visitor.cs",
+              "RelativeToolTip": "..\\Zoo\\Visitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:37:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Zoo\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Zoo\\Program.cs",
+              "RelativeToolTip": "..\\Zoo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:37:32.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Warenkorb2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Warenkorb2\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Warenkorb2\\Program.cs",
+              "RelativeToolTip": "..\\Warenkorb2\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:37:15.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Warenhaus\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Warenhaus\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Warenhaus\\Program.cs",
+              "RelativeToolTip": "..\\Warenhaus\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:35:45.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\VierGewinnt\\Program.cs",
+              "RelativeDocumentMoniker": "..\\VierGewinnt\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\VierGewinnt\\Program.cs",
+              "RelativeToolTip": "..\\VierGewinnt\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:35:27.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Schneggenrennen\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Schneggenrennen\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Schneggenrennen\\Program.cs",
+              "RelativeToolTip": "..\\Schneggenrennen\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:34:53.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\MusikInstrumente\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MusikInstrumente\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\MusikInstrumente\\Program.cs",
+              "RelativeToolTip": "..\\MusikInstrumente\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:34:35.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\InterfaceBeispiele\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceBeispiele\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\InterfaceBeispiele\\Program.cs",
+              "RelativeToolTip": "..\\InterfaceBeispiele\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:34:28.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\Fernseher\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Fernseher\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\Fernseher\\Program.cs",
+              "RelativeToolTip": "..\\Fernseher\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:34:16.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\FarbenConsole\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FarbenConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\FarbenConsole\\Program.cs",
+              "RelativeToolTip": "..\\FarbenConsole\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:34:11.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\E_Book\\Program.cs",
+              "RelativeDocumentMoniker": "..\\E_Book\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\E_Book\\Program.cs",
+              "RelativeToolTip": "..\\E_Book\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:33:58.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\BusSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BusSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\BusSystem\\Program.cs",
+              "RelativeToolTip": "..\\BusSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:33:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\AgentenUndB\u00F6sewichte\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AgentenUndB\u00F6sewichte\\Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\AgentenUndB\u00F6sewichte\\Program.cs",
+              "RelativeToolTip": "..\\AgentenUndB\u00F6sewichte\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:33:06.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Max.Gronemann\\source\\repos\\OOPBeispiele1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwL4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T12:34:03.089Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

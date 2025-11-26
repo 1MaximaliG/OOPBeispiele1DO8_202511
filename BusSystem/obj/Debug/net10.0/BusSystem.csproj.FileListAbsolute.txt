@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\BusSystem\bin\Debug\net10.0\BusSystem.exe
+C:\Users\Max.Gronemann\source\repos\BusSystem\bin\Debug\net10.0\BusSystem.deps.json
+C:\Users\Max.Gronemann\source\repos\BusSystem\bin\Debug\net10.0\BusSystem.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\BusSystem\bin\Debug\net10.0\BusSystem.dll
+C:\Users\Max.Gronemann\source\repos\BusSystem\bin\Debug\net10.0\BusSystem.pdb
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.dll
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\refint\BusSystem.dll
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.pdb
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\BusSystem.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\BusSystem\obj\Debug\net10.0\ref\BusSystem.dll

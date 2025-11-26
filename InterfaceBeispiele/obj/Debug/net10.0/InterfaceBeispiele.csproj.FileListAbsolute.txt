@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\bin\Debug\net10.0\InterfaceBeispiele.exe
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\bin\Debug\net10.0\InterfaceBeispiele.deps.json
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\bin\Debug\net10.0\InterfaceBeispiele.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\bin\Debug\net10.0\InterfaceBeispiele.dll
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\bin\Debug\net10.0\InterfaceBeispiele.pdb
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.dll
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\refint\InterfaceBeispiele.dll
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.pdb
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\InterfaceBeispiele.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\InterfaceBeispiele\obj\Debug\net10.0\ref\InterfaceBeispiele.dll

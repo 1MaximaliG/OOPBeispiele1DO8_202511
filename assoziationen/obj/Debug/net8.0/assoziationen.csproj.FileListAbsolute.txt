@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\assoziationen\bin\Debug\net8.0\assoziationen.exe
+C:\Users\Max.Gronemann\source\repos\assoziationen\bin\Debug\net8.0\assoziationen.deps.json
+C:\Users\Max.Gronemann\source\repos\assoziationen\bin\Debug\net8.0\assoziationen.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\assoziationen\bin\Debug\net8.0\assoziationen.dll
+C:\Users\Max.Gronemann\source\repos\assoziationen\bin\Debug\net8.0\assoziationen.pdb
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.dll
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\refint\assoziationen.dll
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.pdb
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\assoziationen.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\assoziationen\obj\Debug\net8.0\ref\assoziationen.dll

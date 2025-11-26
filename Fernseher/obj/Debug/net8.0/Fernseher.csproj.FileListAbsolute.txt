@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Fernseher\bin\Debug\net8.0\Fernseher.exe
+C:\Users\Max.Gronemann\source\repos\Fernseher\bin\Debug\net8.0\Fernseher.deps.json
+C:\Users\Max.Gronemann\source\repos\Fernseher\bin\Debug\net8.0\Fernseher.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Fernseher\bin\Debug\net8.0\Fernseher.dll
+C:\Users\Max.Gronemann\source\repos\Fernseher\bin\Debug\net8.0\Fernseher.pdb
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.dll
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\refint\Fernseher.dll
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.pdb
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\Fernseher.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Fernseher\obj\Debug\net8.0\ref\Fernseher.dll

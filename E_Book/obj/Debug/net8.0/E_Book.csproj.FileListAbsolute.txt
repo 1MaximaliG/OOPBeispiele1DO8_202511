@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\E_Book\bin\Debug\net8.0\E_Book.exe
+C:\Users\Max.Gronemann\source\repos\E_Book\bin\Debug\net8.0\E_Book.deps.json
+C:\Users\Max.Gronemann\source\repos\E_Book\bin\Debug\net8.0\E_Book.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\E_Book\bin\Debug\net8.0\E_Book.dll
+C:\Users\Max.Gronemann\source\repos\E_Book\bin\Debug\net8.0\E_Book.pdb
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.dll
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\refint\E_Book.dll
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.pdb
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\E_Book.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\E_Book\obj\Debug\net8.0\ref\E_Book.dll

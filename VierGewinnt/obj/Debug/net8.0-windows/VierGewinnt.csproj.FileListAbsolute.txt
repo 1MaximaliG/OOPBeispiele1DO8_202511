@@ -1,0 +1,16 @@
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\bin\Debug\net8.0-windows\VierGewinnt.exe
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\bin\Debug\net8.0-windows\VierGewinnt.deps.json
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\bin\Debug\net8.0-windows\VierGewinnt.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\bin\Debug\net8.0-windows\VierGewinnt.dll
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\bin\Debug\net8.0-windows\VierGewinnt.pdb
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.Form1.resources
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.csproj.GenerateResource.cache
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.dll
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\refint\VierGewinnt.dll
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.pdb
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\VierGewinnt.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\VierGewinnt\obj\Debug\net8.0-windows\ref\VierGewinnt.dll

@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Zoo2\bin\Debug\net8.0\Zoo2.exe
+C:\Users\Max.Gronemann\source\repos\Zoo2\bin\Debug\net8.0\Zoo2.deps.json
+C:\Users\Max.Gronemann\source\repos\Zoo2\bin\Debug\net8.0\Zoo2.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Zoo2\bin\Debug\net8.0\Zoo2.dll
+C:\Users\Max.Gronemann\source\repos\Zoo2\bin\Debug\net8.0\Zoo2.pdb
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.dll
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\refint\Zoo2.dll
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.pdb
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\Zoo2.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Zoo2\obj\Debug\net8.0\ref\Zoo2.dll

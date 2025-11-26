@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\bin\Debug\net8.0\SuperheldenUndHelfer.exe
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\bin\Debug\net8.0\SuperheldenUndHelfer.deps.json
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\bin\Debug\net8.0\SuperheldenUndHelfer.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\bin\Debug\net8.0\SuperheldenUndHelfer.dll
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\bin\Debug\net8.0\SuperheldenUndHelfer.pdb
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.dll
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\refint\SuperheldenUndHelfer.dll
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.pdb
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\SuperheldenUndHelfer.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\SuperheldenUndHelfer\obj\Debug\net8.0\ref\SuperheldenUndHelfer.dll

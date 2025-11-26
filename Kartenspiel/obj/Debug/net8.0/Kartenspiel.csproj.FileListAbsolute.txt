@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\bin\Debug\net8.0\Kartenspiel.exe
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\bin\Debug\net8.0\Kartenspiel.deps.json
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\bin\Debug\net8.0\Kartenspiel.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\bin\Debug\net8.0\Kartenspiel.dll
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\bin\Debug\net8.0\Kartenspiel.pdb
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.dll
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\refint\Kartenspiel.dll
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.pdb
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\Kartenspiel.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Kartenspiel\obj\Debug\net8.0\ref\Kartenspiel.dll

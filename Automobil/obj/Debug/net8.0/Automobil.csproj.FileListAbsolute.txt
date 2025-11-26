@@ -1,0 +1,14 @@
+C:\Users\Max.Gronemann\source\repos\Automobil\bin\Debug\net8.0\Automobil.exe
+C:\Users\Max.Gronemann\source\repos\Automobil\bin\Debug\net8.0\Automobil.deps.json
+C:\Users\Max.Gronemann\source\repos\Automobil\bin\Debug\net8.0\Automobil.runtimeconfig.json
+C:\Users\Max.Gronemann\source\repos\Automobil\bin\Debug\net8.0\Automobil.dll
+C:\Users\Max.Gronemann\source\repos\Automobil\bin\Debug\net8.0\Automobil.pdb
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.AssemblyInfoInputs.cache
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.AssemblyInfo.cs
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.csproj.CoreCompileInputs.cache
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.dll
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\refint\Automobil.dll
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.pdb
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\Automobil.genruntimeconfig.cache
+C:\Users\Max.Gronemann\source\repos\Automobil\obj\Debug\net8.0\ref\Automobil.dll
